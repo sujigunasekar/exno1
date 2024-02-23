@@ -76,7 +76,7 @@ Mean
 ### Code for DATA 2
 ```
 Name :Suji.G
-Register Number : 212222230112
+Register Number : 212222230152
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -116,7 +116,7 @@ df.info()
 ![225985839-fcc1db78-a1fe-4e0a-9b1a-76672ffe7c1c](https://github.com/sujigunasekar/exno1/assets/119559822/3fc3a9b8-952e-4349-a92c-697fb10bc0b6)
 
 ![225990612-65f2b27d-5189-4ea5-a856-59c29d597adc](https://github.com/sujigunasekar/exno1/assets/119559822/8c249d15-b8e6-4e92-aa1e-40173daeee24)
-Before Cleaning
+# Before Cleaning
 
 ![225986091-b2841eec-4db6-45ce-9c0b-c0329c579254](https://github.com/sujigunasekar/exno1/assets/119559822/356073e9-b823-453a-914d-44314489055c)
 
