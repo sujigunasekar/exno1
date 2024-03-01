@@ -100,7 +100,12 @@ dataset=pd.read_csv("/content/heights.csv")
 dataset
 ```
 ![307663558-f01f125b-7c8e-4fba-9a31-6c09ef3b6974](https://github.com/sujigunasekar/exno1/assets/119559822/cdb9897b-8331-44c1-97a3-9095fe9459eb)
-
+```
+df = pd.read_csv("heights.csv")
+q1 = df['height'].quantile(0.25)
+q2 = df['height'].quantile(0.5)
+q3 = df['height'].quantile(0.75)
+```
 # Result
 Thus the given data is read,cleansed and cleaned data is saved into the file.
 
